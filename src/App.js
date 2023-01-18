@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import "./App.css";
 import DocTitleOne from "./components/DocTitleOne";
 import DocTitleTwo from "./components/DocTitleTwo";
